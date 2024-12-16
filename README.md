@@ -19,6 +19,8 @@ O **File System Analysis** é um software desenvolvido em Python para realizar b
 2. **Processamento:** O software percorre os documentos do diretório indicado, realiza a busca e coleta as informações relevantes.
 3. **Interpretação:** Os resultados são analisados com auxílio do **Gemini**, fornecendo contexto e insights.
 4. **Saída:** Os resultados são apresentados em formato estruturado, com opções de exportação.
+   
+<img width="830" alt="FluxogramaProcessos" src="https://github.com/user-attachments/assets/9ddcdd00-c051-49a9-be4b-633f2753d7ce" />
 
 ---
 
@@ -32,4 +34,4 @@ O **File System Analysis** é um software desenvolvido em Python para realizar b
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/file-system-analysis.git
+   git clone [https://github.com/seu-usuario/file-system-analysis.git](https://github.com/rodrigomendes47/system-file-analysis.git)
