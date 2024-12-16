@@ -34,4 +34,4 @@ O **File System Analysis** é um software desenvolvido em Python para realizar b
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/file-system-analysis.git](https://github.com/rodrigomendes47/system-file-analysis.git)
+   git clone https://github.com/rodrigomendes47/system-file-analysis.git
