@@ -1,0 +1,5 @@
+pypdf2
+tabulate
+tqdm
+pandas
+google-generativeai
